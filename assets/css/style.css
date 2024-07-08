@@ -128,7 +128,7 @@ header {
 
 header .social-links {
   position: absolute;
-  bottom: 150px;
+  bottom: 100px;
   left: 225px;
   display: flex;
 }
