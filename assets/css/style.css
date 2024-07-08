@@ -162,7 +162,8 @@ header .social-links {
   #header .social-links {
     margin-top: 15px;
      bottom: 70px;
-     left: 300px;
+     left: 200px;
+    display: flex;
   }
   #header .container {
     display: flex;
